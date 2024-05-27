@@ -15,6 +15,10 @@
         "symfony/yaml": "7.0.*"
     },
     "require-dev": {
+        "symfony/maker-bundle": "^1.59",
+        "symfony/twig-bundle": "7.0.*",
+        "twig/extra-bundle": "^2.12|^3.0",
+        "twig/twig": "^2.12|^3.0"
     },
     "config": {
         "allow-plugins": {
